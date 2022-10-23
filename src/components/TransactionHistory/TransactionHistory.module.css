@@ -1,0 +1,16 @@
+.transactionHistory {
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 500px;
+}
+thead {
+    color: white;
+    background-color: blue;
+}
+td {
+    text-align: center;
+}
+.bgColor {
+    background-color: rgb(215, 204, 204);
+}
+
